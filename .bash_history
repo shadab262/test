@@ -101,3 +101,17 @@ git add .
 git commit -m "test"
 nano s1.html
 git remote add or^Cin https://github.com/shadab262/test.git
+pwd
+ls
+git status
+ls
+rm -rf www
+ls
+git init
+git push https://github.com/shadab262/test.git master
+ls
+nano s1.html 
+git add .
+git status
+git commit -m "frist"
+git push https://github.com/shadab262/test.git master
